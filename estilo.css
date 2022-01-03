@@ -10,3 +10,11 @@ body {
     border: 1px solid #000000;
     text-align: center;
 }
+
+#container #cabecera {
+    font-size: 12px;
+    color: #0f2edd;
+    background-color: #746a6a;
+    border: 1px solid #000000;
+    text-align: center;
+}
